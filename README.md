@@ -1,2 +1,2 @@
 # DOM-Project-5
-Insta Story Feature Using HTML,CSS & JavaScript
+Insta Story & Post Feature Using HTML,CSS & JavaScript
